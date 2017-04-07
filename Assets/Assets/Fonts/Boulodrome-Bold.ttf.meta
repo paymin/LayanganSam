@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d3f4cdef3c2b4a5438fa8a9cea0a0dfb
+timeCreated: 1489648141
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 300
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Boulodrome
+  fontNames:
+  - Boulodrome
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

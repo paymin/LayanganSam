@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 04968436b7aefdd489968d72a4afe15c
+timeCreated: 1490970423
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Asset 13cloud & moon_0
+    21300002: Asset 13cloud & moon_1
+    21300004: Asset 13cloud & moon_2
+    21300006: Asset 13cloud & moon_3
+    21300008: Asset 13cloud & moon_4
+    21300010: Asset 13cloud & moon_5
+    21300012: Asset 13cloud & moon_6
+    21300014: Asset 13cloud & moon_7
+    21300016: Asset 13cloud & moon_8
+    21300018: Asset 13cloud & moon_9
+    21300020: Asset 13cloud & moon_10
+    21300022: Asset 13cloud & moon_11
+    21300024: Asset 13cloud & moon_12
+    21300026: Asset 13cloud & moon_13
+    21300028: Asset 13cloud & moon_14
+    21300030: Asset 13cloud & moon_15
+    21300032: Asset 13cloud & moon_16
+    21300034: Asset 13cloud & moon_17
+    21300036: Asset 13cloud & moon_18
+    21300038: Asset 13cloud & moon_19
+    21300040: Asset 13cloud & moon_20
+    21300042: Asset 13cloud & moon_21
+    21300044: Asset 13cloud & moon_22
+    21300046: Asset 13cloud & moon_23
+    21300048: Asset 13cloud & moon_24
+    21300050: Asset 13cloud & moon_25
+    21300052: Asset 13cloud & moon_26
+    21300054: Asset 13cloud & moon_27
+    21300056: Asset 13cloud & moon_28
+    21300058: Asset 13cloud & moon_29
+    21300060: Asset 13cloud & moon_30
+    21300062: Asset 13cloud & moon_31
+    21300064: Asset 13cloud & moon_32
+    21300066: Asset 13cloud & moon_33
+    21300068: Asset 13cloud & moon_34
+    21300070: Asset 13cloud & moon_35
+    21300072: Asset 13cloud & moon_36
+    21300074: Asset 13cloud & moon_37
+    21300076: Asset 13cloud & moon_38
+    21300078: Asset 13cloud & moon_39
+    21300080: Asset 13cloud & moon_40
+    21300082: Asset 13cloud & moon_41
+    21300084: Asset 13cloud & moon_42
+    21300086: Asset 13cloud & moon_43
+    21300088: Asset 13cloud & moon_44
+    21300090: Asset 13cloud & moon_45
+    21300092: Asset 13cloud & moon_46
+    21300094: Asset 13cloud & moon_47
+    21300096: Asset 13cloud & moon_48
+    21300098: Asset 13cloud & moon_49
+    21300100: Asset 13cloud & moon_50
+    21300102: Asset 13cloud & moon_51
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_0
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 6586
+        width: 179
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_1
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 6432
+        width: 336
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 6164
+        width: 323
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_3
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 6275
+        width: 268
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_4
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 6269
+        width: 179
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_5
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 6331
+        width: 182
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6027
+        width: 170
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_7
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 6076
+        width: 199
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_8
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 6122
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_9
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 5893
+        width: 157
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_10
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 5749
+        width: 320
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_11
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 5674
+        width: 428
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_12
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 5867
+        width: 229
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_13
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 5759
+        width: 235
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_14
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 5547
+        width: 284
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_15
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 5602
+        width: 125
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_16
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 5432
+        width: 514
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 5409
+        width: 170
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_18
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 5465
+        width: 170
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 5050
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_20
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 4988
+        width: 168
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_21
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 5008
+        width: 280
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_22
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 4923
+        width: 228
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_23
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 5001
+        width: 428
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_24
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 4988
+        width: 186
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_25
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 4946
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4743
+        width: 267
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_27
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 4504
+        width: 421
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4514
+        width: 170
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_29
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 4446
+        width: 324
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_30
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 4145
+        width: 323
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_31
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 4338
+        width: 336
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3822
+        width: 323
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_33
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 3955
+        width: 199
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_34
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 3808
+        width: 470
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_35
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 3975
+        width: 330
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3671
+        width: 170
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3514
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3469
+        width: 248
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_39
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 3263
+        width: 323
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_40
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3116
+        width: 200
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_41
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 2871
+        width: 252
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_42
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 2197
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_43
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 2274
+        width: 215
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_44
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1556
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_45
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1622
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_46
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 730
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_47
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 796
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_48
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 113
+        width: 219
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_49
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 0
+        width: 251
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2971
+        width: 1999
+        height: 3721
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 13cloud & moon_51
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 3914
+        width: 1956
+        height: 2778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
